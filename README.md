@@ -2,6 +2,8 @@
 
 ![Design preview for the Profile card component coding challenge](./design/desktop-preview.jpg)
 
+## Demo: https://pablocandela.github.io/Frontend-Mentor-Profile-Card-Component/
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
